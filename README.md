@@ -7,3 +7,4 @@ characterisics
 - uses java.swing
 - has basic level editor
 - 3 themes (graphics and sounds): classic, space, blocky
+- has the original PacMan's ghost behavioral patterns
